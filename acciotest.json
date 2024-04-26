@@ -1,4 +1,4 @@
 {
-    "testRepo": "debugging-challenge-solution",
-    "pathToFile": "cypress/integration/tests/test.spec.js"
+  "testRepo": "debugging-challenge-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
 }
